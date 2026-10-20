@@ -1,0 +1,6 @@
+data/
+outputs/player_segments.csv
+outputs/bi_extracts/
+__pycache__/
+*.db
+.DS_Store
